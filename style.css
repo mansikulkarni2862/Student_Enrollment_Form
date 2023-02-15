@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 Feb, 2023, 12:25:10 PM
+    Author     : Mansi Kulkarni
+*/
+.bg-color {
+    background-color: #3e4444;
+    font-family: monospace;
+    font-size: 12;
+}
+
+.form-label
+{
+    color: black;
+}
+
+.btn-rounded {
+    border-radius: 30px;    
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.footer {  
+    left: 10px;  
+    bottom: 0px;  
+    right: 10px;   
+    width: 95%;   
+    text-align: center;  
+    background-color: #f9fbfd;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    font-family:Courier New,Monospace;
+    } 
+
