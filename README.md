@@ -24,9 +24,7 @@ It is a Student Registration Form that stores the user's data in JSONPowerDB. St
 #### Enhancements:
 * [#2] Tested all pages
 * [#3] Added  a README.md file
-- - - -
 
-Table of Content
 
 
 
