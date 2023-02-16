@@ -25,6 +25,10 @@ It is a Student Registration Form that stores the user's data in JSONPowerDB. St
 * [#2] Tested all pages
 * [#3] Added  a README.md file
 
+- - - -
+### Scope of Functionalities
+* It is a very basic project for demonstration of JsonPowerDb with help of a web application. 
+* Can be further improved by addidng additional fields and can be made into a working DB manager.
 
 
 
